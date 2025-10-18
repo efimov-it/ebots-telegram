@@ -1,0 +1,13 @@
+{
+  "name": "efimov-it/ebots-telegram",
+  "type": "wordpress-plugin",
+  "version": "1.0.0",
+  "description": "Minimal helper to send Telegram messages from WordPress.",
+  "authors": [
+    {
+      "name": "Petr Efimov",
+      "email": "mail@efimov-it.info",
+      "homepage": "https://efimov-it.info"
+    }
+  ]
+}

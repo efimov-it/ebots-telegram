@@ -2,7 +2,7 @@
 Contributors: @efimov-it\
 Requires at least: 5.8\
 Tested up to: 6.6\
-Requires PHP: 8.0\
+Requires PHP: 8.0
 
 Minimal helper to send Telegram messages from WordPress.
 
